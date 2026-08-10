@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+watchlist.json
+universe_cache.json
+state.json
+signals.log
+stock_move_radar_prices.json
+
+.DS_Store
