@@ -1,7 +1,16 @@
 .env
 .venv/
 __pycache__/
+*.pyc
+
 *.csv
-*.log.env git status
-.env
-.venv/
+*.log
+
+watchlist.json
+universe_cache.json
+email_alert_state.json
+state.json
+signals.log
+stock_move_radar_prices.json
+
+.DS_Store
